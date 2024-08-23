@@ -1,0 +1,8 @@
+cassio
+datasets
+langchain
+openai
+tiktoken
+langchain-community
+streamlit
+PyPDF2
